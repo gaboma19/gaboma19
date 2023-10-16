@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gaboma19
-- 👀 I’m interested in ... game design. 👁️ 👄 👁️
-- 🌱 I’m currently learning ... Unity. 👁️ 👄 👁️
-- 💞️ I’m looking to collaborate on ... video games. 👁️ 👄 👁️
+- 👀 I’m interested in ... game design 👁️ 👄 👁️
+- 🌱 I’m currently learning ... Unity 👁️ 👄 👁️
+- 💞️ I’m looking to collaborate on ... video games 👁️ 👄 👁️
 - 📫 How to reach me ... gaboma19@gmail.com 👁️ 👄 👁️
 
 <!---
