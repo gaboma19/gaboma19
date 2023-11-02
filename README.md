@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... game design
 - 🌱 I’m currently learning ... Unity
 - 💞️ I’m looking to collaborate on ... video games
-- 📫 How to reach me ... [itch.io](https://gutugutumakkan.itch.io/)
+- 📫 How to reach me ... https://gutugutumakkan.itch.io/
 
 <!---
 gaboma19/gaboma19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
