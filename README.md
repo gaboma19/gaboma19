@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gaboma19
 - 👀 I’m interested in ... game design
-- 🌱 I’m currently learning ... Unity
+- 🌱 I’m currently learning ... Godot
 - 💞️ I’m looking to collaborate on ... video games
 - 📫 How to reach me ... https://gutugutumakkan.itch.io/
 
